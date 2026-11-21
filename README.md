@@ -11,7 +11,6 @@ Trabajo práctico de Redes Neuronales. Implementa una **regresión softmax** (re
 | `README.md` | Este archivo. |
 | `.gitignore` | Excluye archivos que no deben versionarse (`.DS_Store`, checkpoints de Jupyter, etc.). |
 | `results/` | Resultados en CSV (trials, pruning, resúmenes por hiperparámetro, experimentos de un factor por vez, curvas por época, resultados finales por semilla, reporte por clase, confusiones, etc.), las bases de los estudios de Optuna (`optuna_*.db`) y las figuras del notebook en `results/figures/` (PNG numerados por orden de aparición). |
-| `artefactos_softmax.zip` | Logs de TensorBoard, base de MLflow y modelos registrados. Ver [Artefactos de seguimiento](#artefactos-de-seguimiento-artefactos_softmaxzip). |
 
 ## Artefactos de seguimiento (`artefactos_softmax.zip`)
 
