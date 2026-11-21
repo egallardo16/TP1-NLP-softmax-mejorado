@@ -1,4 +1,25 @@
+# Sistema operativo
 .DS_Store
-__pycache__/
+Thumbs.db
+
+# Jupyter
 .ipynb_checkpoints/
-*.pyc
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Artefactos de seguimiento (se distribuyen en artefactos_regularizacion.zip)
+runs/
+mlruns/
+mlflow.db
+
+# Descargas automáticas de NLTK / scikit-learn
+nltk_data/
+scikit_learn_data/
+
+# IDE
+.vscode/
+.idea/
