@@ -100,7 +100,7 @@ La primera celda (`!pip install -q optuna mlflow`) puede omitirse si ya se insta
 | **12. Preguntas de reflexión** | Respuestas apoyadas en los resultados del notebook. |
 | **13. Conclusiones** | Resultados, búsqueda, efecto de cada hiperparámetro, dinámica y limitaciones. |
 | **14. Exportación** | Guarda las tablas finales, genera `requirements.txt`, `.gitignore` y `artefactos_softmax.zip`. |
-
+| **14. Nota sobre el uso de IA** | Detalla usos específicos de IA en el trabajo |
 ## Resultados principales
 
 Evaluación en el test oficial (7.532 documentos), media ± desvío entre 5 semillas:
