@@ -1,0 +1,5 @@
+hiperparámetro,mín. observado,máx. observado,cerca del límite inferior,cerca del límite superior,de
+lr,0.01329535281318692,0.028072506667530344,0,0,10
+weight_decay,1.7906547790210686e-08,6.837379936446678e-07,3,0,10
+batch_size,64.0,256.0,0,0,10
+max_features,20000.0,20000.0,0,10,10

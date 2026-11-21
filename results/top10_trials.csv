@@ -1,0 +1,11 @@
+number,value,user_attrs_best_epoch,user_attrs_conv_epoch,user_attrs_conv_time,user_attrs_train_time,s_per_epoch,params_lr,params_weight_decay,params_batch_size,params_max_features,params_min_df,params_ngram_range,params_normalization,params_remove_stopwords
+138,0.75342,9,7,0.38754,0.76083,0.05434,0.01694,0.0,256,20000,2,1gram,stem,False
+98,0.75342,12,9,0.45892,0.85736,0.05043,0.01491,0.0,256,20000,2,1gram,stem,False
+142,0.75342,6,5,0.99767,2.23502,0.20318,0.01407,0.0,64,20000,2,1gram,stem,False
+165,0.75298,6,5,0.9829,2.30692,0.20972,0.0133,0.0,64,20000,2,1gram,stem,False
+88,0.75298,6,4,0.19194,0.54296,0.04936,0.02807,0.0,256,20000,2,1gram,stem,False
+167,0.75298,9,5,0.26919,0.74951,0.05354,0.02018,0.0,256,20000,2,1gram,stem,False
+90,0.75298,12,9,0.50348,0.95272,0.05604,0.0151,0.0,256,20000,2,1gram,stem,False
+179,0.75254,6,5,0.49508,1.08096,0.09827,0.02251,0.0,128,20000,2,1gram,stem,False
+69,0.75254,9,5,0.29155,0.76357,0.05454,0.02085,0.0,256,20000,2,1gram,stem,False
+91,0.75254,9,5,0.25263,0.70495,0.05035,0.01881,0.0,256,20000,1,1gram,stem,False
